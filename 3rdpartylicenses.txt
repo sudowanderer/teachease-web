@@ -13,6 +13,9 @@ MIT
 @angular/router
 MIT
 
+@zakarliuka/ng-telegram-webapp
+MIT
+
 rxjs
 Apache-2.0
                                Apache License
